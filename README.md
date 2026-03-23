@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Arch Tech | Music Player Software
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Project Overview
+I engineered this modern, high-level music player for a **University Student client** who required a production-ready solution for their academic project. The primary goal was to merge a **"Glassmorphic"** aesthetic with a seamless, high-performance audio engine that handles dynamic playlists effortlessly.
 
-## Available Scripts
+### Core Technical Features
+* **Smooth Music Controls:** Used React hooks to make sure the music plays, pauses, and skips without any lag.
+* **Spinning Vinyl Effect:** Created a cool spinning animation that starts and stops exactly when the music does.
+* **Modern Glass Look:** Used a "Glassmorphism" style with blur effects to give the app a premium, high-end feel.
+* **Quick Search:** Added a search bar so you can find your favorite songs or artists instantly.
+* **Works on All Screens:** Hand-coded the design so it looks perfect on mobile phones, tablets, and laptops.
+* **Active Song Waves:** Added small animated waves to show exactly which song is playing in the list.
 
-In the project directory, you can run:
+### About the Client Work
+* **Built for a Student:** This was a custom request from a University student to match their "ArchTech" branding.
+* **Clean & Easy Code:** Every line was written manually so it’s easy to read and easy for the client to explain.
+* **Fast Delivery:** I finished the whole design and coding part within the client's tight deadline.
+* **Free Help:** Provided a free consultation after delivery to help the client run the project on their own computer.
 
-### `npm start`
+### Technical Architecture
+* **Frontend Engine:** Developed with React.js using Functional Components and specialized Hooks (useRef, useState, useEffect) for state-driven audio management.
+* **UI Framework:** Engineered with Advanced CSS3 utilizing Grid/Flexbox systems for a pixel-perfect, responsive layout.
+* **Visual Effects:** Implemented custom CSS Keyframe Animations and Backdrop-Filters for the premium Glassmorphism aesthetic.
+* **Asset Optimization:** Integrated high-resolution typography with Montserrat and Inter fonts for professional-grade readability.
+* **Component Testing:** Validated core functionality using React Testing Library to ensure stable link rendering and UI reliability.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### How to Start
+* Clone the code: **git clone [your-link]**
+* Install everything: **npm install**
+* Run the app: **npm start**
